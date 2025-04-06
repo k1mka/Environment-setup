@@ -33,7 +33,7 @@ IDE
 🔧 Run the following command in your terminal:
 # brew install --cask android-studio
 
-✅ Step 5: flutter version manager
+✅ Step 6: flutter version manager
 Convenient to use and switch between versions of flutter
 
 🔧 Run the following commands in your terminal:
@@ -43,4 +43,3 @@ Convenient to use and switch between versions of flutter
 ⚠️ Important:
 Then check is fvm works 
 # fvm list
-
