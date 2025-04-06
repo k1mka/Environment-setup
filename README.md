@@ -43,3 +43,6 @@ Convenient to use and switch between versions of flutter
 ⚠️ Important:
 Then check is fvm works 
 # fvm list
+# fvm install (version)
+# fvm use (version)
+# fvm flutter doctor
