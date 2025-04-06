@@ -40,5 +40,7 @@ Convenient to use and switch between versions of flutter
 # brew tap leoafarias/fvm
 # brew install fvm
 
-
+⚠️ Important:
+Then check is fvm works 
+# fvm list
 
