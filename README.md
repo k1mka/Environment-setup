@@ -4,6 +4,4 @@ First, let's install Homebrew, as we'll be using it frequently during the enviro
 
 Run the following command:
 
-bash
-Copy
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/instal
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
