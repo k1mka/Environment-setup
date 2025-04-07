@@ -16,25 +16,25 @@ The built-in terminal on macOS isn’t very user-friendly, so let’s install my
 # brew install --cask warp
 
 ✅ Step 3: Install arc browser
-Very convenient browser that allows you to switch between work with paces
+Very convenient browser that allows you to switch between work with paces.
 
 🔧 Run the following command in your terminal:
 # brew install --cask arc
 
 ✅ Step 4: Install chat gpt to computer
-It will be easier with this assistant 
+It will be easier with this assistant.
 
 🔧 Run the following command in your terminal:
 # brew install --cask chatgpt
 
-✅ Step 5: Install android-studio
-IDE
+✅ Step 5: Install Android Studio
+IDE.
 
 🔧 Run the following command in your terminal:
 # brew install --cask android-studio
 
 ✅ Step 6: Flutter version manager
-Convenient to use and switch between versions of flutter
+Convenient to use and switch between versions of flutter.
 
 🔧 Run the following commands in your terminal:
 # brew tap leoafarias/fvm
@@ -47,6 +47,6 @@ Then check is fvm works
 # fvm use (version)
 # fvm flutter doctor
 
-✅ Step 7: Setup android studio
-Download the zip file with the IDE settings and export it
+✅ Step 7: Setup Android Studio
+Download the zip file with the IDE settings and export it.
 https://drive.google.com/file/d/1McPcFmOzKZ5yOqkRRNBtUij9NTvCYd2O/view?usp=sharing
